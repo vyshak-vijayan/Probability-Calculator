@@ -1,1 +1,5 @@
 .snapshots/
+bin/
+obj/
+node_modules/
+Logs/
